@@ -1,0 +1,22 @@
+{
+	"first_user": {
+		"password": "first_pass",
+		"name": "abet"
+	},
+	"second_user": {
+		"password": "second_pass",
+		"name": "betty"
+	},
+	"third_user": {
+		"password": "passwordNew",
+		"name": "dlwodn"
+	},
+	"forth_user": {
+		"password": "passwordNew2",
+		"name": "dlwodn2"
+	},
+	"fifth_user": {
+		"password": "passwordNew3",
+		"name": "dlwodn3"
+	}
+}
